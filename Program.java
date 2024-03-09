@@ -1,7 +1,6 @@
 package OOP_DZ_Seminar_1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Program {
 
@@ -53,7 +52,5 @@ public class Program {
         } else {
             System.out.println("Такой жевачки нет в автомате.");
         }
-
     }
-
 }
